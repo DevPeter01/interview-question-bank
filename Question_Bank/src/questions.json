@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "DSA",
+    "question": "What is the difference between stack and queue?",
+    "answer": "Stack follows LIFO (Last In First Out) principle, where the last element added is the first one to be removed. Queue follows FIFO (First In First Out) principle, where the first element added is the first one to be removed."
+  },
+  {
+    "id": 2,
+    "category": "DBMS",
+    "question": "What is normalization?",
+    "answer": "Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. It involves dividing large tables into smaller ones and defining relationships between them."
+  },
+  {
+    "id": 3,
+    "category": "OS",
+    "question": "What is a process?",
+    "answer": "A process is a program in execution. It includes the program code, current activity represented by the program counter, contents of processor's registers, and process stack containing temporary data."
+  },
+  {
+    "id": 4,
+    "category": "CN",
+    "question": "What is TCP vs UDP?",
+    "answer": "TCP (Transmission Control Protocol) is connection-oriented, reliable, and ensures data delivery in order. UDP (User Datagram Protocol) is connectionless, faster, but doesn't guarantee delivery or order."
+  },
+  {
+    "id": 5,
+    "category": "DSA",
+    "question": "What is Big O notation?",
+    "answer": "Big O notation describes the performance or complexity of an algorithm in terms of time or space as the input size grows. It represents the worst-case scenario."
+  },
+  {
+    "id": 6,
+    "category": "DBMS",
+    "question": "What is the difference between SQL and NoSQL?",
+    "answer": "SQL databases are relational, use structured schemas, and support ACID properties. NoSQL databases are non-relational, have flexible schemas, and are designed for horizontal scaling."
+  },
+  {
+    "id": 7,
+    "category": "OS",
+    "question": "What is deadlock?",
+    "answer": "Deadlock is a situation where two or more processes are unable to proceed because each is waiting for the other to release a resource. It requires four conditions: mutual exclusion, hold and wait, no preemption, and circular wait."
+  },
+  {
+    "id": 8,
+    "category": "CN",
+    "question": "What is the OSI model?",
+    "answer": "The OSI (Open Systems Interconnection) model is a conceptual framework with 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application. It standardizes communication functions in a network."
+  },
+  {
+    "id": 9,
+    "category": "DSA",
+    "question": "What is a hash table?",
+    "answer": "A hash table is a data structure that implements an associative array, mapping keys to values using a hash function. It provides average O(1) time complexity for insertions, deletions, and lookups."
+  },
+  {
+    "id": 10,
+    "category": "DBMS",
+    "question": "What is a transaction?",
+    "answer": "A transaction is a sequence of database operations that are treated as a single unit of work. It must satisfy ACID properties: Atomicity, Consistency, Isolation, and Durability."
+  }
+]
